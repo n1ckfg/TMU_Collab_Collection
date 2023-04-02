@@ -1,0 +1,18 @@
+[submodule "TMU_Collab_Android"]
+	path = TMU_Collab_Android
+	url = https://github.com/n1ckfg/TMU_Collab_Android
+[submodule "TMU_Collab_Oculus"]
+	path = TMU_Collab_Oculus
+	url = https://github.com/n1ckfg/TMU_Collab_Oculus
+[submodule "TMU_Collab_iOS"]
+	path = TMU_Collab_iOS
+	url = https://github.com/n1ckfg/TMU_Collab_iOS
+[submodule "TMU_Collab_Vive"]
+	path = TMU_Collab_Vive
+	url = https://github.com/n1ckfg/TMU_Collab_Vive
+[submodule "TMU_Collab_PointCloud"]
+	path = TMU_Collab_PointCloud
+	url = https://github.com/n1ckfg/TMU_Collab_PointCloud
+[submodule "TMU_Collab_Examples"]
+	path = TMU_Collab_Examples
+	url = https://github.com/n1ckfg/TMU_Collab_Examples
